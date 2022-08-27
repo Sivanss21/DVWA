@@ -378,3 +378,6 @@ The challenges are exactly the same as for MySQL, they just run against SQLite3 
 Project Home: <https://github.com/digininja/DVWA>
 
 *Created by the DVWA team*
+# Secret = "ughadg3489tuihagdksng';k6[4ily]"
+# Password = "fasfasfgily]"
+# Key = "fasf;[3;46t34t6fgsdgsdg]]"
